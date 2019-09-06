@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 145 145" style="enable-background:new 0 0 145 145;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#253669;stroke-width:5;}
+	.st1{fill:none;stroke:#253669;stroke-width:6;stroke-linecap:square;}
+	.st2{fill:none;stroke:#253669;stroke-width:6;stroke-linecap:round;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#253669;stroke-width:5;}
+</style>
+<title>Ícono_1</title>
+<desc>Created with Sketch.</desc>
+<g id="Ícono_1">
+	<g id="Group-22" transform="translate(2.000000, 20.000000)">
+		<rect id="Rectangle" x="46.5" y="42.5" class="st0" width="17" height="60"/>
+		<rect x="110.5" y="32.5" class="st0" width="17" height="70"/>
+		<polyline id="Line-9" class="st1" points="28.5,36.5 55,18 86,31 112.5,11.5 		"/>
+		<rect x="78.5" y="53.5" class="st0" width="17" height="49"/>
+		<rect x="13.5" y="64.5" class="st0" width="17" height="38"/>
+		<path id="Line-8" class="st2" d="M0.5,103.5h139.7"/>
+		<circle id="Oval" class="st3" cx="22.5" cy="42" r="8"/>
+		<circle class="st3" cx="54" cy="18" r="8"/>
+		<circle class="st3" cx="86" cy="32" r="8"/>
+		<circle class="st3" cx="119" cy="8" r="8"/>
+	</g>
+</g>
+</svg>

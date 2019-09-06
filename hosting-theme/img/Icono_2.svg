@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="145px" height="145px" viewBox="0 0 145 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Ícono_2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Ícono_2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-21" transform="translate(11.000000, 11.000000)" stroke="#000000" stroke-width="5">
+            <circle id="Oval" cx="61.5" cy="61.5" r="61.5"></circle>
+            <path d="M61.5893106,1 L61.5,120.968511" id="Line-7" stroke-linecap="square"></path>
+            <path d="M61.5,0.9685107 C81.4006025,20.9685107 91.3509037,40.9685107 91.3509037,60.9685107 C91.3509037,80.9685107 81.4006025,100.968511 61.5,120.968511" id="Line-7" stroke-linecap="round"></path>
+            <path d="M30.5,2.9685107 C50.4006025,22.6351774 60.3509037,42.301844 60.3509037,61.9685107 C60.3509037,81.6351774 50.4006025,101.301844 30.5,120.968511" id="Line-7" stroke-linecap="round" transform="translate(45.425452, 61.968511) scale(-1, 1) translate(-45.425452, -61.968511) "></path>
+            <path d="M1.25799471,60.4842553 L121.742005,60.4842553" id="Line-7" stroke-linecap="square" transform="translate(61.742005, 60.000000) scale(-1, 1) translate(-61.742005, -60.000000) "></path>
+            <path d="M19.6786212,102.484255 C33.648851,90.551219 47.6190808,84.5847008 61.5893106,84.5847008 C75.5595404,84.5847008 89.5297702,90.551219 103.5,102.484255 L103.5,102.484255" id="Path" stroke-linecap="square"></path>
+            <path d="M103.5,18 C89.5297702,29.9330363 75.5595404,35.8995545 61.5893106,35.8995545 C47.6190808,35.8995545 33.648851,29.9330363 19.6786212,18" id="Shape" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
